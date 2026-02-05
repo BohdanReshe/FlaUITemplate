@@ -1,1 +1,17 @@
+# macOS
 .DS_Store
+
+# VS / VS Code
+.vscode/
+*.user
+*.suo
+
+# .NET build output
+bin/
+obj/
+
+# Test results
+TestResults/
+
+# Local settings
+*.runsettings
