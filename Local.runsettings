@@ -1,0 +1,15 @@
+</xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+    <RunConfiguration>
+        <ResultsDirectory>TestResults</ResultsDirectory>
+        <TargetPlatform>x64</TargetPlatform>
+        <TargetFrameworkVersion>net8.0</TargetFrameworkVersion>
+        <DisableParallelization>false</DisableParallelization>
+    </RunConfiguration>
+
+    <TestRunParameters>
+        <Parameter name="ShortWait" value="0.5"/>
+        <Parameter name="StandardWait" value="5"/>
+        <Parameter name="LongWait" value="45"/>
+    </TestRunParameters>
+</RunSettings>

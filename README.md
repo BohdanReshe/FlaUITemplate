@@ -1,0 +1,2 @@
+# FlaUITemplate
+flaui-automation-framework
