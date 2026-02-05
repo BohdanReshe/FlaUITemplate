@@ -1,5 +1,7 @@
 # macOS
 .DS_Store
+.gitignore
+.gitattributes
 
 # VS / VS Code
 .vscode/
