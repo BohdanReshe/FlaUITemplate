@@ -20,6 +20,7 @@ This is intentionally a **template**, not a complete test suite.
 
 - **C# / .NET**
 - **FlaUI**
+- **NUnit**
 - **UI Automation (Windows)**
 - **Visual Studio Code**
 
