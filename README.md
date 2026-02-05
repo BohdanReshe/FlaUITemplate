@@ -31,10 +31,15 @@ This is intentionally a **template**, not a complete test suite.
 ## Project Structure
 
 ├── Locators/ # UI element identifiers and selectors
+
 ├── PO/ # Page Object / Screen Object models
+
 ├── Shared/ # Shared utilities, helpers, and configuration
+
 ├── Tests/ # Test scenarios and test classes
+
 ├── Local.runsettings
+
 └── README.md
 
 
